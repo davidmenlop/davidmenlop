@@ -12,3 +12,9 @@ Soy Desarrollador Web Full Stack {backend, frontend y mobile} formado en uno de 
 
 - [Website](https://portafolio-ivory.vercel.app//) 💻 - Trabajando en esto.
 
+Me apasiona aprender todos los dias y profundizar en aquellas tecnologias que manejo constantemente, soy un Desarrollador Web Full Stack que se inclina y se especializa
+en el Front end con Frameworks como React y React Native.
+
+<p><img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif" alt="foo" title="title" /></p>
+
+
