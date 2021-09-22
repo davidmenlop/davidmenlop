@@ -17,4 +17,12 @@ en el Front end con Frameworks como React y React Native.
 
 <p><img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif" alt="foo" title="title" /></p>
 
+Te invito a conocer un poco mas sobre los proyectos que he realizado con estas tecnologias...😉😉😉
+
+<blockquote>
+<h1>React JS</h1>
+<p>PI Countries</p>
+</blockquote>
+
+
 
