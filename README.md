@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/davidmenlop/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/davidmenweb)
 
+<img https://github.com/davidmenlop/davidmenlop/blob/main/Black%20Technology%20LinkedIn%20Banner.png>
 
 ### Sobre Mi
 Soy Desarrollador Web Full Stack {backend, frontend y mobile} formado en uno de los mejores bootcamps de latino america [@soyhenry](https://www.soyhenry.com/).
