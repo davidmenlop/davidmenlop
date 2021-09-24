@@ -24,5 +24,7 @@ Te invito a conocer un poco mas sobre los proyectos que he realizado con estas t
 <p>PI Countries</p>
 </blockquote>
 
-
+<p><img src="https://github.com/davidmenlop/davidmenlop/blob/main/home.PNG" alt="foo" title="title" /></p>
+<br>
+<p><img src="https://github.com/davidmenlop/davidmenlop/blob/main/home1.PNG" alt="foo" title="title" /></p>
 
